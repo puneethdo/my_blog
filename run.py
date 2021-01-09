@@ -1,4 +1,5 @@
 from flaskblog import create_app
+#Added comment that's it
 
 app = create_app()
 
